@@ -17,3 +17,24 @@ nào để tối đa hóa lợi nhuận?
 
 **Vai trò:** Data Analyst \
 **Công cụ:** PostgreSQL, Google Sheet, Power BI
+
+## 1. Dữ liệu
+
+| | |
+| --- | --- |
+| Phạm vi | Từ tháng 07/2024 - 06/2025  |
+| Số lượng dòng | 166.665K |
+| Số lượng cột | 22 cột (Campaign Type, Brand, Target Audience, Duration, Channel Used, Impressions, Clicks, Leads, Conversions, CTR, Conversion Rate (CRV), Acquisition cost (CPA), Weighted ROI, Revenue_Per_Conversion (AOV), CPC, CVR, Total Spend, Customer Segment, Campaign Date, Primary Channel, Duration Group, ROI Category |
+| Đặc điểm | Dự liệu được tổng hợp từ 3 brand: Nykaa, Purplle, Tira Beauty |
+
+**Xử lý dữ liệu**
+- Kiểm tra chất lượng: Xử lý 600 giá trị NULL, 150 dòng bị trùng lặp.
+- Tính KPIs tổng quan ban đầu.
+
+## 2. Câu hỏi kinh doanh
+
+## 3. Trực quan hóa
+
+
+
+---
