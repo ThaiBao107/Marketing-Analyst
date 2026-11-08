@@ -32,6 +32,7 @@ nào để tối đa hóa lợi nhuận?
 - Tính KPIs tổng quan ban đầu.
 
 ## 2. Phân tích
+[Google Sheet - Marketing analysis](https://docs.google.com/spreadsheets/d/1oiSb4d9Ajtx14RCpUwpRkrcX8MUq7hzoMMYtYIstGD4/edit?usp=sharing)
 ### 2.1 Phân tích về Brand
 ![Overview](./Marketing%20Analyst/Image/brand.png)
 - Có thể thấy khi phân tích 3 Brand (Nykaa, Purplle, Tira Beauty), trong đó Purplle có Weighted ROI cao và Weighted_CPA lần lượt là 1.94 và 170.10. Với chỉ số này có thể thấy được so với 2 brand còn lại là Nykaa, Tira Beauty thì Purplle sẽ cho ra hiệu quả cao về mặt quảng cáo cao hơn và đáng để suy nghĩ có nên đầu tư vào nhiều hơn không.
