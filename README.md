@@ -61,7 +61,7 @@ nào để tối đa hóa lợi nhuận?
 - Ở đây có thể thấy được gần với Quý 1 - 2025 thì sẽ cho ra Weighted_ROI cao ở cả 3 brand Nykaa, Tira Beauty, Purplle lần lượt là 1.65, 1.96, 1.96. Có thể thấy đây sẽ khoảng thời gian nên được ưu tiên đầu tư chi phí vào nhất. Quý 1 -2025 sẽ là giai đoạn khách hàng có sẵn sàng mua hàng cao (New Year resolution, khởi đầu năm mới).
 - Bên cạnh đó với Quý 2 - 2025 thì lại cho ra Weighted_ROI thấp ở 3 brand Nykaa, Tira Beauty, Purplle lần lượt là 1.62, 1.88, 1.93. Q2-2025 có thể đối mặt với cạnh tranh cao hoặc nhu cầu thấp hơn, làm tăng chi phí chuyển đổi.
 ## 3. Trực quan hóa
-- Dashboard được xây dựng từ Power BI
+- Dashboard được xây dựng từ Power BI, dashboard sẽ bao gồm 5 page (Overview, Campaign Performance, Channel Analyst, Audience & Segment, Cost & ROI)
 ### 3.1 Data Model
 ![Overview](./Marketing%20Analyst/Image/Data_model.png)
 - Trong data model gồm 1 bảng fact (FactMarketing) và 10 bảng dimension (DimChannelUsed, DimBrand, DimCustomerSegment, DimDate, DimDurationGroup, DimTargetAudience, DimPrimaryChannel, DimRegion, DimRoiCategory, DimCampaignType)
