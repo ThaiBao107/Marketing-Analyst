@@ -45,7 +45,7 @@ nào để tối đa hóa lợi nhuận?
 - Với Purplle sẽ có Weighted ROI cao ở các loại chiến dịch Social Media (1.96), Paid Ads (1.96), Email (1.95).
 - Với Tira Beauty sẽ có Weighted ROI cao ở các loại chiến dịch Paid Ads (1.97), Email (1.94).
 - Với Nykaa sẽ có Weighted ROI cao ở các loại chiến dịch SEO (1.68), Social Media (1.68).
-- Có thể thấy được rằng mỗi brand sẽ có có thể mạnh về các loại chiến dịch riêng của từng brand, việc lựa chọn đầu tư vào loại chiến dịch của một brand cần phải xem xét thật kỹ ở Weighted_ROI và Weighted_CPA.
+- Có thể thấy được rằng mỗi brand sẽ có có thể mạnh về các loại chiến dịch riêng của từng brand, việc lựa chọn đầu tư vào loại chiến dịch của một brand cần phải xem xét thật kỹ ở Weighted_ROI và Weighted_CPA. \\
 ![Overview](./Marketing%20Analyst/Image/DurationGroup.png)
 - Khi phân tích về tổng số thời gian diễn ra của các loại chiến dịch dựa trên Duration Group thì có thể thấy Medium (8-14 days), Long (15-21 days) sẽ là khoảng thời cho ra Weighted ROI cao là 1.86 và 1.85. Có thể kết luận gần từ 8 đến 21 ngày sẽ là khoảng thời gian để một chiến dịch được triển khai là hợp lý nhất. 
 ### 2.4 Phân tích về kênh
@@ -54,7 +54,7 @@ nào để tối đa hóa lợi nhuận?
 - Với Facebook, Google, WhatsApp, Youtube có Weighted ROI từ 1.82 đến 1.83 và Weighted CPA sẽ dao động từ 169.68 đến 170.65, có thể thấy được 3 kênh này chưa thể tối ưu hiệu quả về chí phí đầu tư và chi phí đầu từ còn khá cao.
 ### 2.5 Phân tích về phân phối ROI
 ![Overview](./Marketing%20Analyst/Image/ROI_Dis.png)
-- Có thể thấy với Poor khá cao và chiếm đến 23.97% (gần 1/4 ROI) về tỷ lệ hoàn vốn. Cần phải xem xét thật kỹ về nhóm Poor để khắc phục tình trạng. Điều này đồng nghĩa với việc gần một phần tư ngân sách đang được chi cho các hoạt động không tạo ra lợi nhuận.
+- Có thể thấy với nhóm Poor khá cao và chiếm đến 23.97% (gần 1/4 ROI) về tỷ lệ hoàn vốn. Cần phải xem xét thật kỹ về nhóm Poor để khắc phục tình trạng. Điều này đồng nghĩa với việc gần một phần tư ngân sách đang được chi cho các hoạt động không tạo ra lợi nhuận.
 - Ở chiều ngược lại, khoảng 39,2% campaign thuộc nhóm Excellent và Good đang hoạt động hiệu quả với ROI lớn hơn 2.
 ### 2.6 Phân tích về theo thời gian
 ![Overview](./Marketing%20Analyst/Image/TimeTrend.png)
@@ -77,6 +77,13 @@ nào để tối đa hóa lợi nhuận?
 #### 3.2.1 Cost & ROI Page
 ![Overview](./Marketing%20Analyst/Image/ROI_page.png)
 
+
+## Cấu trúc repository
+
+| Tệp | Nội dung |
+| --- | --- |
+| `Marketing_Analyst.pbix` | Chứa Marketing Analyst Dashboard, bao gồm 5 page |
+| `Scripts_Marketing_Analyst.sql` | Bao gồm các lệnh SQL về EDA trên dữ liệu và thống kế ban đầu |
 
 
 ---
